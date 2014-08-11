@@ -1,4 +1,4 @@
-aat-project-game
+aat-tictactoe
 ================
 
 tic tac toe game (among others?)
