@@ -3,7 +3,7 @@ aat-tictactoe
 
 tic tac toe game
 
-my name is Fizan and I am new to web programming. here is my first professional project:
+hi! I'm Fizan and I'm completely new to web programming, so I hope this goes well. here's my first professional project:
 
 <!DOCTYPE HTML>
 <html>
