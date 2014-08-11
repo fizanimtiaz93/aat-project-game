@@ -1,7 +1,7 @@
 aat-tictactoe
 ================
 
-tic tac toe game (among others?)
+tic tac toe game
 
 my name is Fizan and I am new to web programming. here is my first professional project:
 
